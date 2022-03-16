@@ -6,7 +6,7 @@
 
 # UFFO
 
-_35 group website project_
+_website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
@@ -20,4 +20,4 @@ Design: [UFO](https://cdn.discordapp.com/attachments/850245533838868480/95139909
 
 ## Authors
 
-Rimantas: [Github](https://github.com/Nuotaikos)
+Diana: [Github](https://github.com/Nuotaikos)
