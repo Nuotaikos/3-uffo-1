@@ -16,7 +16,10 @@ Design: [UFO](https://cdn.discordapp.com/attachments/850245533838868480/95139909
 
 ## Project features
 
+-   HTML
+-   CSS
 -   Github pages
+<img src='Ufo-pvz.png' width='400' >
 
 ## Authors
 
